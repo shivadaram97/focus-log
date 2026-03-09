@@ -1,0 +1,23 @@
+{
+  "name": "Focus Log",
+  "short_name": "Focus Log",
+  "description": "Daily boundary tracker for personal focus and growth",
+  "start_url": "/focus-log/",
+  "scope": "/focus-log/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0e16",
+  "theme_color": "#7c6af7",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/7c6af7/ffffff?text=FL",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/7c6af7/ffffff?text=FL",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

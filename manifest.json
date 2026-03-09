@@ -1,9 +1,0 @@
-{
-  "name": "Focus Log",
-  "short_name": "Focus Log",
-  "start_url": "/focus-log/",
-  "display": "standalone",
-  "background_color": "#0c0e16",
-  "theme_color": "#7c6af7",
-  "icons": [{"src": "https://via.placeholder.com/192", "sizes": "192x192", "type": "image/png"}]
-}
